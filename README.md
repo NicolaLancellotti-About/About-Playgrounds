@@ -1,2 +1,2 @@
 # About-Playgrounds
-A playground about playgrounds
+Explanations and samples about Swift Playground.
